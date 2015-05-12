@@ -4,7 +4,7 @@ Package.describe({
   // Brief, one-line summary of the package.
   summary: 'Meteor fullpage Library',
   // URL to the Git repository containing the source code for this package.
-  git: '',
+  git: 'git@gitlab.devmeup.net:slam310/estate-fullpage-package.git',
   documentation: 'README.md'
 });
 
