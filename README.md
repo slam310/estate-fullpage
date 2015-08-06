@@ -17,3 +17,4 @@ $ meteor add estate:fullpage
 Enjoy..
 
 Warning : it's a development packages, use it with this in your mind.
+metoer up
